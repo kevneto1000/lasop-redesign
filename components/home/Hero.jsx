@@ -93,7 +93,7 @@ export default function Hero() {
             </div>
 
             {/* Floating Card */}
-            <div className="absolute left-[-40px] bottom-[70px] bg-white rounded-xl shadow-xl p-5 z-20">
+            <div className="absolute left-[-30px] bottom-[70px] bg-white rounded-xl shadow-xl p-5 z-20">
               <p className="text-sm text-slate-500">Most Popular</p>
 
               <h3 className="font-bold text-slate-900 mt-1">

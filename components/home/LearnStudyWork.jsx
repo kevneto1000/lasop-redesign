@@ -53,7 +53,7 @@ export default function LearnStudyWork() {
         </Reveal>
 
         {/* Cards */}
-        <div className="grid md:grid-cols-3 gap-6 mt-16">
+        <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-6 mt-16">
           {journey.map((item, index) => (
             <Reveal key={item.title} delay={index * 0.15}>
               <div

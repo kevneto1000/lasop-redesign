@@ -32,7 +32,7 @@ export default function About() {
 
               {/* Floating Card */}
               <div
-                className="absolute -bottom-8 -right-8 bg-white/10 backdrop-blur-xl border border-white/10 rounded-md p-6 shadow-xl"
+                className="absolute -bottom-8 -right-6 bg-white/10 backdrop-blur-xl border border-white/10 rounded-md p-6 shadow-xl"
               >
                 <h3 className="text-3xl font-bold text-white">
                   17+
